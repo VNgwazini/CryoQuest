@@ -1,2 +1,0 @@
-# CryoQuest
-SpaceApps Hackathon Project
